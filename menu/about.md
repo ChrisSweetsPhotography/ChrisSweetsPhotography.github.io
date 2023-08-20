@@ -1,19 +1,15 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Chris Sweets Photography
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Chris Sweet's Photography is where to go for all your auction photography needs. I have specialized in automotive photography for 5+ years and am an enthusiast through and through. I will work directly with you to ensure that your car is represented at it's best for sale on sites like Bring A Trailer, Cars and Bids, and Hagerty Marketplace.
 
-### Getting Started
+## Prior Work
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+## Success Stories
 
-### Example Content
+## Pricing
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+## Contact
