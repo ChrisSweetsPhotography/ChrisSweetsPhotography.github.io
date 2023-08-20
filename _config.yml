@@ -21,6 +21,6 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Chris Sweet's Photography'
-description:	       'Auction photography'
+description:	       'Automotive Auctions'
 author:              'Chris Sweet'
 
