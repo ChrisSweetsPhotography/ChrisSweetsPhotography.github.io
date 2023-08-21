@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Datsun 280ZX 10th Anniversary Record Setter"
+title: "Datsun 280ZX 10th Anniversary: Record Setter"
 author: "Chris Sweet"
 categories: journal
 tags: [welcome_page]
