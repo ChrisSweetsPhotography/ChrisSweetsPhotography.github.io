@@ -11,7 +11,7 @@ layout: default
     </h2>
     {% if post.image %}
       <div class="thumbnail-container">
-        <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
+        <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/min/{{ post.image }}" data-echo="{{ site.github.url }}/assets/img/full/{{ page.image }}"></a>
       </div>
     {% endif %}
     <p>

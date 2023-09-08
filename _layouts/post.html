@@ -6,7 +6,7 @@ layout: default
   {{ page.title }}
 </h1>
 {% if page.image %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+  <img src="{{ site.github.url }}/assets/img/min/{{ page.image }}" data-echo="{{ site.github.url }}/assets/img/full/{{ page.image }}">>
 {% endif %}
 <article>
   {{ content }}
@@ -23,3 +23,5 @@ layout: default
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
 {% endif %}
+
+{% include lazyload.html %}
