@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chris Sweets Photography
+title: Chris Sweet's Photography
 permalink: /about
 image: 300z_cover.jpg
 ---
