@@ -25,3 +25,5 @@ Christopher Sweet
 Email: ChrisSweetsPhotography@gmail.com
 
 Phone: (315) 791-2325
+
+Rochester NY + Western CT
