@@ -6,7 +6,7 @@ image: 300z_cover.jpg
 ---
 
 ## Who I Am:
-Chris Sweet's Photography is a local Rochester NY Company for all your auction photography needs. I have specialized in automotive photography for 5+ years and am an enthusiast through and through. I use my passion to work directly with you, ensuring that your car is represented at it's best for sale on sites like Bring A Trailer, Cars and Bids, and Hagerty Marketplace. I enjoy learning about each car and telling it's story through photography.
+Chris Sweet's Photography is a Rochester NY based company for all your auction photography needs. I have specialized in automotive photography for 5+ years and am an enthusiast through and through. I use my passion to work directly with you, ensuring that your car is represented at it's best for sale on sites like Bring A Trailer, Cars and Bids, and Hagerty Marketplace. I enjoy learning about each car and telling it's story through photography.
 
 ## What I Do:
 First, I will work with you to find a suitable time and location for shooting the car. I am willing to travel throughout the Western NY region, though will consider further travel on a case by case basis. I bring shooting lights, multiple lenses, and quick detailer spray to all photo shoots to address any small details (e.g. Bug Splatter from transitioning between shooting locations).
